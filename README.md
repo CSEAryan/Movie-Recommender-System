@@ -45,7 +45,7 @@ Then open http://localhost:8501 in your browser.
 
 🖼️ Demo
 
-[Insert a screenshot or GIF of the app here]
+![Project Screeenshot](images/screenshot1.png)
 
 🌟 Future Improvements
 
