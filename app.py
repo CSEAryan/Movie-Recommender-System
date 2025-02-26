@@ -27,7 +27,7 @@ def recommend(movie):
 
 st.title('Movie Recommender System')
 
-movies_dict = pickle.load(open('movie_dict.pkl','rb'))
+movies_dict = pickle.load(open('movies.pkl','rb'))
 movies_df = pd.DataFrame(movies_dict)
 
 if 'title' not in movies_df.columns:
