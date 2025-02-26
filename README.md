@@ -45,7 +45,7 @@ Then open http://localhost:8501 in your browser.
 
 🖼️ Demo
 
-![Project Screeenshot](images/screenshot1.png)
+![Project Screeenshot](images/Screenshot1.png)
 
 🌟 Future Improvements
 
